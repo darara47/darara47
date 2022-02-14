@@ -2,10 +2,6 @@
 
 ## I am a junior frontend developer 🙌
 
-- 📚 I'm currently learning JavaScript and React
-- 🔍 I'm looking for my first job as frontend developer
-- 💰 I would be greatful for your feedback about my code
-
 ### [Let's check my website here!][website] 📄
 
 ### Languages and Tools:
