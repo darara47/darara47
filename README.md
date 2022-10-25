@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Patryk 👋
 
-## I am a junior frontend developer 🙌
+## I am a fullstack developer 🙌
 
 ### [Let's check my website here!][website] 📄
 
