@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Patryk 👋
 
-## I work as a Full Stack JavaScript Developer 💻
+## I've been working as a Full Stack JavaScript Developer for 3 years 💻
 
 ### React & NestJS
 
